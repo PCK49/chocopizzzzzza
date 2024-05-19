@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <h1>This is fine</h1>
+  <title>This is fine</title>
   <style>
   p {
     color: white;
