@@ -1,22 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" >
 <head>
   <title>This is fine</title>
   <style>
-  p {
-    color: white;
-    font-family: serif
-  }
-  h1 {
-    color: white;
-    text-align: center
-    font-family: serif
-  }
-  body {
-    color:#0A75AD;
-  }
-  <style>
-<p>This website is about stuff. Do you like stars? I know I do.</p>
-
+p {
+  color: white;
+  font-family: serif
+}
+h1 {
+   color: white;
+   text-align: center;
+   font-family: serif;
+}
+body {
+    background-color:#0A75AD;
+}
+  </style>
+  </head>
 <body>
+  <h1> This is fine.
+  <p>This website is about stuff. Do you like stars? I know I do.</p>
 <html>
